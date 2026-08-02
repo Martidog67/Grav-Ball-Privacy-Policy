@@ -118,6 +118,6 @@ If the app changes in a way that affects this policy, such as adding a new servi
 
 Questions about this policy or the app can be sent to:
 
-**[YOUR EMAIL ADDRESS HERE]**
+grimspiregames@gmail.com
 
 Grav Ball is an independent game made by a solo developer. We read every message, though replies may take a few days.
